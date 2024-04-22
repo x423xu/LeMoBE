@@ -1,0 +1,3 @@
+[submodule "NVAE"]
+	path = NVAE
+	url = https://github.com/x423xu/NVAE.git
