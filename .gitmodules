@@ -1,3 +1,6 @@
 [submodule "NVAE"]
 	path = NVAE
 	url = https://github.com/x423xu/NVAE.git
+[submodule "SnowflakeNet"]
+	path = SnowflakeNet
+	url = git@github.com:x423xu/SnowflakeNet.git
