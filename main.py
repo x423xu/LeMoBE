@@ -81,7 +81,7 @@ def get_args(siren_args, checkpoint):
 def init_model(args, checkpoint, logging):
     # init nvae
     logging.info('loaded the model at epoch %d', checkpoint['epoch'])
-    arch_instance = utils.get_arch_instance(args.arch_instance)
+    arch_instance = utils.get_arch_cells(args.arch_instance)
     nvae = AutoEncoder(args, None, arch_instance)
     nvae.load_state_dict(checkpoint['state_dict'], strict=False)
     nvae_optimizer = torch.optim.Adamax(nvae.parameters(), args.learning_rate,

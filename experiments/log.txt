@@ -7,3 +7,17 @@
 2024-04-22 16:27:58,582 (Elapsed: 00:00:00) old model, no num_mixture_dec was found.
 2024-04-22 16:27:58,583 (Elapsed: 00:00:00) remove empty dir 20240422-122735
 2024-04-22 16:27:58,583 (Elapsed: 00:00:00) checkpoint path experiments/checkpoints/20240422-122758
+2024-04-26 17:49:18,390 (Elapsed: 00:00:00) old model, no num_mixture_dec was found.
+2024-04-26 17:49:18,392 (Elapsed: 00:00:00) remove empty dir 20240422-122758
+2024-04-26 17:49:18,392 (Elapsed: 00:00:00) checkpoint path experiments/checkpoints/20240426-134918
+2024-04-26 17:50:15,353 (Elapsed: 00:00:00) old model, no num_mixture_dec was found.
+2024-04-26 17:50:15,355 (Elapsed: 00:00:00) remove empty dir 20240426-134918
+2024-04-26 17:50:15,355 (Elapsed: 00:00:00) checkpoint path experiments/checkpoints/20240426-135015
+2024-04-26 17:50:28,216 (Elapsed: 00:00:00) old model, no num_mixture_dec was found.
+2024-04-26 17:50:28,217 (Elapsed: 00:00:00) remove empty dir 20240426-135015
+2024-04-26 17:50:28,217 (Elapsed: 00:00:00) checkpoint path experiments/checkpoints/20240426-135028
+2024-04-26 17:50:28,217 (Elapsed: 00:00:00) loaded the model at epoch 90
+2024-04-26 17:51:06,006 (Elapsed: 00:00:00) old model, no num_mixture_dec was found.
+2024-04-26 17:51:06,008 (Elapsed: 00:00:00) remove empty dir 20240426-135028
+2024-04-26 17:51:06,008 (Elapsed: 00:00:00) checkpoint path experiments/checkpoints/20240426-135106
+2024-04-26 17:51:06,008 (Elapsed: 00:00:00) loaded the model at epoch 90

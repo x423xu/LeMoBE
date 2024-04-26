@@ -31,7 +31,6 @@ parser.add_argument('--half', action='store_true', default=False,help='enabling 
 parser.add_argument('--batch_size', type=int, default=4,
                     help='Batch size used during evaluation. If set to zero, training batch size is used.')
 parser.add_argument('--epochs', type=int, default=100,help='number of epochs')
-parser.add_argument('--seed', type=int, default=0,help='seed used for initialization')
 parser.add_argument('--warmup_epochs', type=int, default=0, help='number of warmup epochs')
 
 # model
