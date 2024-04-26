@@ -1,0 +1,9 @@
+2024-04-22 16:14:02,740 (Elapsed: 00:00:00) old model, no num_mixture_dec was found.
+2024-04-22 16:14:27,859 (Elapsed: 00:00:00) old model, no num_mixture_dec was found.
+2024-04-22 16:25:35,683 (Elapsed: 00:00:00) old model, no num_mixture_dec was found.
+2024-04-22 16:25:35,685 (Elapsed: 00:00:00) checkpoint path experiments/checkpoints/20240422-122535
+2024-04-22 16:27:35,960 (Elapsed: 00:00:00) old model, no num_mixture_dec was found.
+2024-04-22 16:27:35,961 (Elapsed: 00:00:00) checkpoint path experiments/checkpoints/20240422-122735
+2024-04-22 16:27:58,582 (Elapsed: 00:00:00) old model, no num_mixture_dec was found.
+2024-04-22 16:27:58,583 (Elapsed: 00:00:00) remove empty dir 20240422-122735
+2024-04-22 16:27:58,583 (Elapsed: 00:00:00) checkpoint path experiments/checkpoints/20240422-122758
