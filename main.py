@@ -14,7 +14,7 @@ import wandb
 import torch.distributed as dist
 
 from configs import args as siren_args
-from models.siren_nvae import MSiren
+from model_zoo.siren_nvae import MSiren
 from NVAE import utils
 from NVAE.model import AutoEncoder
 from NVAE import datasets

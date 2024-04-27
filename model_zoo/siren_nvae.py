@@ -1,6 +1,6 @@
 import torch
 import torch.nn as nn
-from models.siren import Siren
+from model_zoo.siren import Siren
 
 class MyArgs:
     def __init__(self, **kwargs):

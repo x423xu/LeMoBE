@@ -21,3 +21,19 @@
 2024-04-26 17:51:06,008 (Elapsed: 00:00:00) remove empty dir 20240426-135028
 2024-04-26 17:51:06,008 (Elapsed: 00:00:00) checkpoint path experiments/checkpoints/20240426-135106
 2024-04-26 17:51:06,008 (Elapsed: 00:00:00) loaded the model at epoch 90
+2024-04-26 18:10:47,371 (Elapsed: 00:00:00) old model, no num_mixture_dec was found.
+2024-04-26 18:10:47,372 (Elapsed: 00:00:00) remove empty dir 20240426-135106
+2024-04-26 18:10:47,372 (Elapsed: 00:00:00) checkpoint path experiments/checkpoints/20240426-141047
+2024-04-26 18:10:47,372 (Elapsed: 00:00:00) loaded the model at epoch 90
+2024-04-26 23:36:02,364 No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-04-26 23:40:17,182 No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-04-26 23:42:17,526 No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-04-26 23:44:26,344 No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-04-26 23:46:10,796 No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-04-26 23:47:55,856 No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-04-26 23:49:40,677 No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-04-27 00:04:40,460 No artists with labels found to put in legend.  Note that artists whose label start with an underscore are ignored when legend() is called with no argument.
+2024-04-27 00:23:47,401 Note: NumExpr detected 24 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-04-27 00:23:47,402 NumExpr defaulting to 8 threads.
+2024-04-27 01:03:14,694 Note: NumExpr detected 24 cores but "NUMEXPR_MAX_THREADS" not set, so enforcing safe limit of 8.
+2024-04-27 01:03:14,694 NumExpr defaulting to 8 threads.
